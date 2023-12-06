@@ -1,5 +1,5 @@
 ### My Professional Experience 
-![Professional Experience](https://user-images.githubusercontent.com/62513924/209214270-846e7951-de68-42cb-9414-9a99d6535d1f.gif)
+![Professional Experience](./)
 ![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=cvYouTian&show_icons=true&theme=tokyonight) 
 
 <!--
