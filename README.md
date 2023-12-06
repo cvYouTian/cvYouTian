@@ -1,7 +1,5 @@
-### My Professional Experience 
-![Professional Experience](./)
+![Professional Experience](Imgur.gif)
 ![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=cvYouTian&show_icons=true&theme=tokyonight) 
-
 <!--
 **cvYouTian/cvYouTian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
